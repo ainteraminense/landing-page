@@ -1,0 +1,35 @@
+/* First section */
+
+header nav{
+    font-family:  "Roboto", Arial, Helvetica, sans-serif;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav .right {
+    display: flex;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+header section {
+    display: flex;
+    justify-content: center;
+}
+
+section .left,
+section .right {
+    flex: 1;
+}
