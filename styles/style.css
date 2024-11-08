@@ -148,13 +148,14 @@ cite {
 .call-action {
     background-color: #3882f6;
     margin: 50px 100px;
-    padding: 10px 50px;
+    padding: 20px 50px;
     display: flex;
 }
 
 .call-action h3,
 .call-action p {
     color: #e5e7eb;
+    margin: 5px;
 }
 
 .call-action button {
