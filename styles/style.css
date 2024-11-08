@@ -133,3 +133,23 @@ blockquote + p {
 cite {
     font-style: normal;
 }
+
+/* Call for action section */
+
+.call-action {
+    background-color: #3882f6;
+    margin: 50px 100px;
+    padding: 10px 50px;
+    display: flex;
+}
+
+.call-action h3,
+.call-action p {
+    color: #e5e7eb;
+}
+
+.call-action button {
+    border: 1px solid #e5e7eb;
+    border-radius: 4px;
+    align-self: center;
+}
